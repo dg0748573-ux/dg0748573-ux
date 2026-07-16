@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hi there, I'm Dhruv ✨</h1>
 
 <h3 align="center">
-📊 Data Analyst
+📊 Data Analyst | Business Analyst
 </h3>
 
 <p align="center">

@@ -59,9 +59,10 @@ I enjoy learning new technologies, creating dashboards, analyzing datasets, and 
 
 # 📂 Featured Projects
 
-## 🏦 Bank Loan Analysis
-✔️ Analyzed customer loan data using SQL queries  
-✔️ Generated KPIs and business insights  
+## 🏦 Customer Shopping Behavior Analysis
+✔️ Analyzed customer Behavior using Python,SQL,Power BI queries  
+✔️ Generated KPIs and business insights 
+✔️ Generated a professional Dashboard
 ✔️ Improved reporting and decision-making analysis  
 
 ---
@@ -86,15 +87,15 @@ I enjoy learning new technologies, creating dashboards, analyzing datasets, and 
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/astuti-astuti-3a014a403/">
+<a href="https://www.linkedin.com/in/DhruvGupta1234">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Astuti99">
+<a href="https://github.com/dg0748573-ux">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:astutijha.12345@gmail.com">
+<a href="mailto:Gdhruv.data.acc@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 

@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hi there, I'm Dhruv ✨</h1>
 
 <h3 align="center">
-📊 Aspiring Data Analyst | SQL • Python • Power BI • Excel Enthusiast
+📊 Data Analyst
 </h3>
 
 <p align="center">

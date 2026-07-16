@@ -11,7 +11,7 @@ Turning raw data into meaningful insights and interactive dashboards 🚀
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B801&center=true&vCenter=true&width=435&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Data+Visualization+Enthusiast;Always+Learning+New+Skills+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B801&center=true&vCenter=true&width=435&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Data+Visualization+Enthusiast;Always+Learning+New+Skills+🚀"/>
 </p>
 
 ---
